@@ -14,7 +14,7 @@
    * NoCorona blocks
    * CoronaApp blocks
    * Sever blocks
-   Click on any app and download to run and play
+ Click on any app and download to run and play
 
  Special Thanks to Sorabh Dadhich and Syed Ishtiyaq Ahmed
 
