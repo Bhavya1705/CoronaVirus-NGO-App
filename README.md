@@ -10,5 +10,9 @@
   This app allows NGOs to accept and view requests
 ## Server
   Server application designed to handle low number of users.
+## Open Blocks to see block layout in thunkable
+## Click on any app and download to run and play
 
-##Click on any app and download to run and play
+## Special Thanks to Sorabh Dadhich and Syed Ishtiyaq Ahmed
+
+## Thunkable and Google FireBaseDB used
