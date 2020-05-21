@@ -10,3 +10,5 @@
   This app allows NGOs to accept and view requests
 ## Server
   Server application designed to handle low number of users.
+
+##Click on any app and download to run and play
