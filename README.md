@@ -17,6 +17,6 @@
  
  Click on any app and download to run and play
 
- Special Thanks to Sorabh Dadhich and Syed Ishtiyaq Ahmed
+ Special Thanks to Sorabh Dadhich and @atomicsyed-99
 
  Thunkable and Google FireBaseDB used
